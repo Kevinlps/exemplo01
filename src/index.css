@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ubunto-regular';
+    src: url(./assets/fonts/Ubuntu-Regular.ttf);
+}
+@font-face {
+    font-family: 'aboreto-regular';
+    src: url(./assets/fonts/Aboreto-Regular.ttf);
+}
+body{
+    margin: 0;
+    
+}

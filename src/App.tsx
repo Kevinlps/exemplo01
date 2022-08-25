@@ -1,9 +1,10 @@
+import Container from "./components/Container"
+import Container2 from "./components/Container2"
+
 const App = () => {
- return (
-    <div id='container' >
-        <h1>Este é o titulo</h1>
-        <p>qualquer coisa</p>
-    </div>
- )
-} 
+    return(<>
+        <Container/>
+        <Container2/>
+    </>)
+}
 export default App 
